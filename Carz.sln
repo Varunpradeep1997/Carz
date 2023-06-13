@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carz", "Carz\Carz.csproj", "{FDAC4217-5634-4456-9AB0-BA3C6F45390E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDAC4217-5634-4456-9AB0-BA3C6F45390E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAC4217-5634-4456-9AB0-BA3C6F45390E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAC4217-5634-4456-9AB0-BA3C6F45390E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAC4217-5634-4456-9AB0-BA3C6F45390E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF218AD2-52C9-469B-AA71-B0F7339D4860}
+	EndGlobalSection
+EndGlobal
